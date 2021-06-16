@@ -1,5 +1,5 @@
 # ARACNE regulons inference is based on the calculation of the mutual information (MI) between each pair of genes. 
-MI compuaion has a high computational complexity, therefore, we recommend to run the script on a cluster.
+# MI computaion has a high computational complexity, therefore, we recommend to run the script on a cluster.
 
 library(viper)
 library(dorothea)
