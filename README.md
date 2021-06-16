@@ -1,1 +1,1 @@
-# Hybrid_Regulon_Based_TF_Act_Estimtion
+# Hybrid_Regulon_Based_TF_Act_Estimation
